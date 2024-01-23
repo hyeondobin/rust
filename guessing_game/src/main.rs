@@ -36,6 +36,6 @@ fn main() {
                 break;
             }
         }
-        count = count + 1;
+        count += 1;
     }
 }
